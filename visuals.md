@@ -2,11 +2,11 @@
 
 <br>
 
-(Input fancy visualizations here)
+# Findings
 
 <br>
 
-# Findings
+(Input fancy visualizations here)
 
 <br>
 
