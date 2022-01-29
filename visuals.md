@@ -6,36 +6,33 @@
 
 <br>
 
+A typical random induced subgraph of the overall graph
+
+![Induced subgraph](visuals/randomsubgraph.png)
+
 Degree histogram
 
 ![Nodes by Degree](visuals/nodesbydegree.png)
 
 <br>
 
-various subgraphs
+Nodes with degree > 37
+
+![Nodes with degree > 37](visuals/degree37.png)
 
 <br>
 
-Category Histogram
+A popular node
+
+![A popular node](visuals/popularnode2.png)
+
+<br>
+
+Page type histogram
 
 ![Nodes by Page Type](visuals/nodesbypage.png)
 
 <br>
 
-table of statistics (prob of edge between category)
-
-<br>
 
 edges by characterists
-
-<br>
-
-edges by features
-
-<br>
-
-Matrix that represents our training data
-
-<br>
-
-graph of training loss over time

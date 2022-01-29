@@ -10,8 +10,12 @@ We started the project by analyzing the data to search for simple patterns. We q
 
 <br>
 
+The sparseness of the graph was a major obstacle in creating any sort of model. One thing we tried was to take a random subgraph and analyze the properties. The problem with this is that there was not very much edge data, so it was hard to draw conclusions.
+
+<br>
+
 Another thing we realized was that some page types had significantly more pages than others, and that those pages were not equally well-connected. Also, nodes of the same page type are significantly more likely to be connected than those with differing page types.
 
 <br>
 
-The sparseness of the graph was a major obstacle in creating any sort of model. One thing we tried was to take a random subgraph and analyze the properties.
+We tried a similarity heuristic on the page description to predict which pages would be connected. However, it was not the case that pages with a similar description were more likely to be connected.
