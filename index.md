@@ -6,6 +6,12 @@
 
 <br>
 
+Businesses need to connect for contracting, sales, etc.
+Finding optimal connections difficult and expensive
+Can we learn to detect links between businesses?
+
+<br>
+
 **Project Goal**: Given a social network of pages, create a model that predicts whether two pages link together.
 
 **Data Used**: The given dataset is a network, represented as a graph, from a social media website. Each node, represented by a number id, is a page from that website, and an edge exists between two nodes if both pages link to each other. In addition, we have provided the page’s description and the page type.
@@ -24,7 +30,8 @@ Visualization of test graph
 
 <br>
 
-Precision: 70%
+**Precision: .7004**
+**Accuracy: .5847**
 
 See the visualizations page for more!
 
