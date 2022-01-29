@@ -6,7 +6,8 @@
 
 <br>
 
-(Input fancy visualizations here)
+Degree histogram, various subgraphs, category histogram, table of statistics (prob of edge between category), edges by characterists, edges by features
+Matrix that represents our training data, graph of training loss over time
 
 <br>
 

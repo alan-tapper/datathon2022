@@ -2,7 +2,7 @@
 
 <br>
 
-# Abstract
+# Overview
 
 <br>
 
@@ -16,8 +16,18 @@
 
 <br>
 
-**Test Accuracy: 73%**
+Visualization of test graph
 
-(input simple visualization here)
+<br>
+
+# Quick Statistics
+
+<br>
+
+Test Accuracy: 73%
+
+See the visualizations page for more!
+
+<br>
 
 Please report your test accuracy and any other relevant metrics/visualizations for test_labels.csv. When judging, we are interested not just in the raw performance of your algorithm in terms of test accuracy, but are also looking for interesting/novel problem-solving approaches, insightful exploratory data analysis and visualizations, possibilities for future work, and the potential challenges your model may face if deployed in a real-world setting.
