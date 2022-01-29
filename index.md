@@ -1,13 +1,20 @@
 #### [Abstract](index.md)            [Process and Insights](process.md)            [Visualizations](visuals.md)            [Next Steps](nextsteps.md)
 
 <br>
+
 # Abstract
+
+<br>
 
 **Project Goal**: Given a social network of pages, create a model that predicts whether two pages link together.
 
 **Data Used**: The given dataset is a network, represented as a graph, from a social media website. Each node, represented by a number id, is a page from that website, and an edge exists between two nodes if both pages link to each other. In addition, we have provided the page’s description and the page type.
 
+<br>
+
 # Our Model
+
+<br>
 
 **Test Accuracy: 73%**
 
