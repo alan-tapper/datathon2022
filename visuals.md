@@ -6,9 +6,36 @@
 
 <br>
 
-Degree histogram, various subgraphs, category histogram, table of statistics (prob of edge between category), edges by characterists, edges by features
-Matrix that represents our training data, graph of training loss over time
+Degree histogram
+
+[Nodes by Degree](visuals/nodesbydegree.png)
 
 <br>
 
-We discovered that some page types had more nodes, and that those nodes were not equally well-connected. We then discovered that nodes of the same page type were significantly more likely to be connected than those with differing page types.
+various subgraphs
+
+<br>
+
+Category Histogram
+
+[Nodes by Page Type](visuals/nodesbypage.png)
+
+<br>
+
+table of statistics (prob of edge between category)
+
+<br>
+
+edges by characterists
+
+<br>
+
+edges by features
+
+<br>
+
+Matrix that represents our training data
+
+<br>
+
+graph of training loss over time
