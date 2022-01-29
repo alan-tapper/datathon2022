@@ -1,4 +1,4 @@
-["about.md"](About)
+[About](about.md)
 
 **Data set**: The dataset is a network, represented as a graph, from a social media website. Each node, represented by a number id, is a page from that website, and an edge exists between two nodes if both pages link to each other. In addition, we have provided the page’s description and the page type.
 
