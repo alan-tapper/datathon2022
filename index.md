@@ -1,4 +1,4 @@
-#### [Abstract](index.md)            [Process and Insights](process.md)            [Visualizations](visuals.md)            [Next Steps](nextsteps.md)
+#### [Overview](index.md)            [Process and Insights](process.md)            [Visualizations](visuals.md)            [Next Steps](nextsteps.md)
 
 <br>
 
@@ -24,7 +24,7 @@ Visualization of test graph
 
 <br>
 
-Test Accuracy: 73%
+Precision: 70%
 
 See the visualizations page for more!
 
