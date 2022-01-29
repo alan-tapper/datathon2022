@@ -1,4 +1,4 @@
-#### [Abstract](index.md)                    [Process and Insights](process.md)                    [Visualizations](visuals.md)                    [Next Steps](nextsteps.md)
+#### [Abstract](index.md)                [Process and Insights](process.md)                [Visualizations](visuals.md)                [Next Steps](nextsteps.md)
 
 # Next Steps
 
