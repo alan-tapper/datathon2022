@@ -1,7 +1,7 @@
 Data set: The dataset is a network, represented as a graph, from a social media website. Each node, represented by a number id, is a page from that website, and an edge exists between two nodes if both pages link to each other. In addition, we have provided the page’s description and the page type.
 
 ```markdown
-We built a thing.
+["about.md"](About)
 ```
 
 Goals: Your goal is to create a model that predicts whether two pages link together utilizing the graph data, the page descriptions, and the page type. We have provided pairs of nodes in test_edges.csv and your job is to predict whether an edge exists between these pairs of nodes. 
