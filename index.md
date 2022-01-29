@@ -1,5 +1,6 @@
 #### [Abstract](index.md)            [Process and Insights](process.md)            [Visualizations](visuals.md)            [Next Steps](nextsteps.md)
 
+<br>
 # Abstract
 
 **Project Goal**: Given a social network of pages, create a model that predicts whether two pages link together.
