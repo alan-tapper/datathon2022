@@ -1,2 +1,3 @@
 # Datathon 2022 Project
-Alan Tapper, Arnav Burudgunte, Evan Stegall, Chuk Uzowihe
+Track: Bill.com
+Teammates: Alan Tapper, Arnav Burudgunte, Evan Stegall, Chuk Uzowihe
