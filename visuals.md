@@ -8,7 +8,7 @@
 
 Degree histogram
 
-[Nodes by Degree](visuals/nodesbydegree.png)
+![Nodes by Degree](visuals/nodesbydegree.png)
 
 <br>
 
@@ -18,7 +18,7 @@ various subgraphs
 
 Category Histogram
 
-[Nodes by Page Type](visuals/nodesbypage.png)
+![Nodes by Page Type](visuals/nodesbypage.png)
 
 <br>
 
