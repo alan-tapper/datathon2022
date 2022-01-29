@@ -2,13 +2,15 @@
 
 <br>
 
-# Findings
+# Visuals
 
 <br>
 
 A typical random induced subgraph of the overall graph
 
 ![Induced subgraph](visuals/randomsubgraph.png)
+
+<br>
 
 Degree histogram
 
@@ -31,8 +33,3 @@ A popular node
 Page type histogram
 
 ![Nodes by Page Type](visuals/nodesbypage.png)
-
-<br>
-
-
-edges by characterists
